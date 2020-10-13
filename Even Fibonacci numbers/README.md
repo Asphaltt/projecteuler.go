@@ -22,4 +22,4 @@ I find the even-odd pattern of the sequence is that, excepting the first two Fib
 	}
 ```
 
-[Next problem](../Largest prime factor).
+[Next problem](https://github.com/Asphaltt/projecteuler.go/tree/main/Largest%20prime%20factor).
