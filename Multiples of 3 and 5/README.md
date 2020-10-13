@@ -26,4 +26,4 @@ Second step: calculate the sum.
 	}
 ```
 
-That's all. Lets go to [next problem](../Even Fibonacci numbers/).
+That's all. Lets go to [next problem](https://github.com/Asphaltt/projecteuler.go/tree/main/Even%20Fibonacci%20numbers).
